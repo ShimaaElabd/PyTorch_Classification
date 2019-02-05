@@ -9,7 +9,6 @@
 ---
 
 
-
 *  In this project I've build a model  architecture using CNN by pytorch. This Model can classify three categories (cat, dog and car).
 
 * I've collect the dataset from [Kaggle](https://www.kaggle.com/c/dogs-vs-cats/data) and [Imagenet](https://ai.stanford.edu/~jkrause/cars/car_dataset.html).
